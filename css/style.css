@@ -2,9 +2,9 @@
 /*Style All pages*/
 body{
   background-color: lightblue;
-  /* set width to 80% */
-  /* set margin-left to auto */
-  /* set margin-right to auto */
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 header{
@@ -13,6 +13,11 @@ header{
 
 
 /*create caption class */
+.caption{
+  float: left;
+  text-align: center;
+  margin-right: 20%;
+}
   /* inside caption class set float property to left */
   /* inside caption class set text-align property to center */
   /* inside caption class set margin-right property to 20% */
@@ -20,13 +25,13 @@ header{
 nav{
   font-family:Calibri, Arial,sans-serif;
   font-size: 1.25em;
-  font-weight:bold;
-  text-align:center;
-  /* set margin-top to 20px */
-  /* set margin-bottom to 30px */
-  /* set padding to 10px */
-  /* set border-top to 5px solid #FFFFFF */
-  /* set border-bottom to 5px solid #FFFFFF */
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom; 30px;
+  padding: 10px;
+  border-top: 5px; background color; #FFFFFF;
+  border-bottom: 5px; background color; #FFFFFF;
 }
 
 
