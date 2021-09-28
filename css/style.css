@@ -66,7 +66,12 @@ margin-top: 150px;
 
 
 /*Style Classics page */
+classics {
 
+float: left;
+padding-left: 10%; 
+
+}
   /*create column class */
   /*set float property to left  */
   /*set padding-left property to 10%  */
